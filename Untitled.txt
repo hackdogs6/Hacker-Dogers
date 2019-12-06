@@ -1,0 +1,103 @@
+
+<div class="most">Solution Summary</div><br>
+<div class="par">Our group have decided to make a blog and a website as our solution. <br>We will make a website and post it’s link on our social media accounts, so it will spread easily for the blog,<br> we will film our survey with homeowners in largo and we’ll post it on youtube.</div><br><br><br>
+    
+<div class="most">Background of the Problem and Solution</div><br>
+    
+    <div class="dog">(Problem)</div><br>
+      <div class="par">We choose this issue because we want to address the problem that most<br> of us are facing and to know the ways to save energy in order to save the mother earth.<br><br>(Solution)<br>
+      We have chosen our solution which is blog and website because most of the people today are very familiar to those things and internet. This is the best way for us to spread our information about saving electricity.
+
+</div><br>
+    
+<div class="most">How the solution works</div><br>
+    
+<div class=".par">People can view our website and blog easily because almost everyone is updated on the internet. By this, people would get a lot of information and facts about energy.
+</div><br>
+    
+<div class="a.pics">
+<a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/%20Possible%20solutions2.jpg"><img src="file:///Volumes/USB%20DISK/Group%206%20Website/74426412_2502583370026378_7487271557740363776_n.jpg" height="250px" width="450px"></a>
+  <a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/Design%20Question2.jpg"><img src="file:///Volumes/USB%20DISK/Group%206%20Website/74662466_267568157503507_9022645052354068480_n.jpg" height="250px" width="450px"></a>
+<a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/problem2.jpg"><img src="file:///Volumes/USB%20DISK/Group%206%20Website/75388356_1398460216979730_1513668649750102016_n.jpg" height="250px" width="450px"></a>
+</div>
+    
+<div class="most">Features of the solution</div><br>
+    
+<div class=".par">- Offers an interaction with homeowners at largo
+<br>- Information you can get just by one click<br>
+- Saves money and efforts
+
+</div><br>
+    
+<div class="most">Benefits of the solution</div><br>
+    
+<div class=".par">- They would be educated about our issue
+<br>- They might be entertained<br>
+- They would get a lot of information
+
+</div>
+    
+<div class="footer">2019 All Rights Reserved</div>
+    
+</body>
+</html>
+
+
+
+<div>
+<img src="file:///Volumes/USB%20DISK/Group%206%20Website/logo.png" height="200px" width="235px" class="logo">  
+<a href="file:///media/removable/USB%20DISK/Save%20Energy%20Webiste/Contact.jpg">CONTACT</a>
+<a href="file:///Users/administrator/Desktop/html/About%20Us.jpg">ABOUT US</a>
+    
+<a href="file:///Volumes/USB%20DISK/Group%206%20Website/Website.html">HOME</a>
+</div>
+
+
+
+
+
+<div class="section">Save Electricity</div><br><br><br>
+ 
+<div class="most">Solution Summary</div><br>
+<div class=".par">Our group have decided to make a blog and a website as our solution. We will make a website and post it’s link on our social media accounts, so it will spread easily for the blog, we will film our survey with homeowners in largo and we’ll post it on youtube.</div><br>
+    
+<div class="most">Background of the Problem and Solution</div><br>
+    
+<div class=".par">(Problem)<br>
+      We choose this issue because we want to address the problem that most of us are facing and to know the ways to save energy in order to save the mother earth.<br><br>(Solution)<br>
+      We have chosen our solution which is blog and website because most of the people today are very familiar to those things and internet. This is the best way for us to spread our information about saving electricity.
+
+</div><br>
+    
+<div class="most">How the solution works</div><br>
+    
+<div class=".par">People can view our website and blog easily because almost everyone is updated on the internet. By this, people would get a lot of information and facts about energy.
+</div><br>
+    
+<div class="a.pics">
+<a href="video.mp4"><img src="video.jpg" height="400px" width="560px"></a>
+<a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/%20Possible%20solutions2.jpg"><img src="Possible solutions1.jpg" height="220px" width="300px"></a>
+  <a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/Design%20Question2.jpg"><img src="design question1.jpg" height="220px" width="300px"></a>
+<a href="file:///Volumes/USB%20DISK/Save%20Energy%20Webiste/problem2.jpg"><img src="problem1.jpg" height="220px" width="300px"></a>
+</div>
+    
+<div class="most">Features of the solution</div><br>
+    
+<div class=".par">- Offers an interaction with homeowners at largo
+<br>- Information you can get just by one click<br>
+- Saves money and efforts
+
+</div><br>
+    
+<div class="most">Benefits of the solution</div><br>
+    
+<div class=".par">- They would be educated about our issue
+<br>- They might be entertained<br>
+- They would get a lot of information
+
+</div>
+    
+<div class="footer">2019 All Rights Reserved</div>
+    
+</body>
+</html>

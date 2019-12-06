@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #75EDCE;
+}
+</style>
+<body>
+
+<div class="icon-bar">
+  <a class="active" href="#"><i class="fa fa-home"></i></a>
+  <a href="#"><i class="fa fa-search"></i></a>
+  <a href="#"><i class="fa fa-envelope"></i></a>
+  <a href="#"><i class="fa fa-globe"></i></a>
+  <a href="#"><i class="fa fa-trash"></i></a>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: "Lato", sans-serif;}
+
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 300px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #75EDCE;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 300px;
+}
+</style>
+</head>
+<body>
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Solution Summary')" id="defaultOpen">Solution Summary</button>
+  
+  <button class="tablinks" onclick="openCity(event, 'Background Of The Problem And Solution')">Background Of The Problem And Solution</button>
+  
+  <button class="tablinks" onclick="openCity(event, 'Causes Of The Problem')">Causes Of The Problem</button>
+ 
+  <button class="tablinks" onclick="openCity(event, 'How The Solution Works')">How The Solution Works</button>
+  <button class="tablinks" onclick="openCity(event, 'Features Of The Solution')">Features Of The Solution</button>
+  <button class="tablinks" onclick="openCity(event, 'Benefits Of The Solution')">Benefits Of The Solution</button>
+  <button class="tablinks" onclick="openCity(event, 'Early Prototype')">Early Prototype</button>
+  <button class="tablinks" onclick="openCity(event, 'Usability Test Questions')">Usability Test Questions</button>
+  
+</div>
+
+<div id="Solution Summary" class="tabcontent">
+  <h1>Solution Summary</h1>
+  <p>Our proposed solution consists of using other alternatives such as air coolers, electric fans, natural air, that has no coolants instead of airconditioners. In executing our solution, it would require us to use social media platforms such as facebook and instagram</p>
+</div>
+
+<div id="Background Of The Problem And Solution" class="tabcontent">
+  <h1>Background Of The Problem And Solution</h1>
+  <p>According to the website named statista, there is an estimated 1.6 billion working. Through the years of advancement of technology airconditioners were invented but not many people know the disadvantages and problems it brings to our environment, that is why our team chose this underrated yet major problem.</p>
+</div>
+
+<div id="Causes Of The Problem" class="tabcontent">
+  <h1>Causes Of The Problem</h1>
+  <p>Our chosen problem is occuring because of the greenhouse gases being emitted from airconditioners and the huge number of households that use airconditioning units.The major reason why almost 1.6 billion households use airconditioners is because of the constant occurence of high tempereture,caused by climate change</p>
+</div>
+
+<div id="How The Solution Works" class="tabcontent">
+ <h1>How The Solution Works</h1>
+ <p>Our proposed solution consists of using other alteratives such as ;air coolers, electric fans, natural air , that has no coolants instead of air conditioners. In executing our solution, it would require us to use social media platforms such as Facebook and Instagram</p>
+ </div>
+ 
+ <div id="Features Of The Solution" class="tabcontent">
+   <h1>Features Of The Solution</h1>
+   <p>-Eco friendly</p>
+   <p>-Energy Efficient</p>
+   <p>-Money Saver</p>
+ </div>
+ 
+ <div id="Benefits Of The Solution" class="tabcontent">
+   <h1>Benefits Of The Solution</h1>
+   <p>-It could require lower energy consumption</p>
+   <p>-We could have a lot of energy reserves, and have lower chances on energy shortage</p>
+   </div>
+   
+  <div id="Early Prototype" class="tabcontent">
+    <h1>Early Prototype</h1>
+    
+  </div>
+  
+  <div id="Usability Test Questions" class="tabcontent">
+    <h1>Usability Test Questions</h1>
+    <h4>Demographics</h4>
+    <p>Age </p>
+    <p>Gender</p>
+    <p>Family Income</p>
+    <p>Baranggay</p>
+    <h4>Approaches</h4>
+    <p>Does your family use airconditioners?</p>
+    <p>If yes, how often?</p>
+    <p>Is using airconditioners a neccesity to your fambam?</p>
+    <h4>Knowledge</h4>
+    <p>DO you know any eco benefits that an airconditioner provides to our envirionment?</p>
+    <p>Do you have knowledge about how an airconditioner works?</p>
+    <h4>Observing</h4>
+    <p>Was the sample website/prototype too spacious?</p>
+    <p>What difficulties you might have with this type of solution?</p>
+    <h4>Post Testing</h4>
+    <p>What can you say about our presented solution?</p>
+    <p>What did you like moist about the presented solutions?</p>
+    <p>Do you have any feedback that would help us improve?</p>
+    </div>
+    
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
+</html>
